@@ -1,4 +1,4 @@
-.cotainer { /*
+.cotainer { 
 	margin-bottom: 10px;
 	margin-right: 10PX
 	margin-left: 10px;
@@ -6,9 +6,9 @@
 	opacity:0.3;
 
 }
-*/
 
 .row {
+	font-color:green;
 	float: right;
 	margin-right: 10px;
 	margin-left: 10px;
